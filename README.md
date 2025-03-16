@@ -1,5 +1,3 @@
-Reference of provided code (alpha-version)
-
 NB! We provide raw working scripts used for the development and implementation.
 
 NB! Most of the experiments and scripts were run in anaconda environment
